@@ -37,10 +37,12 @@ h1{
 }
 h1{
     text-align: center;
+    color: white;
 }
 .scorecard{
     text-align: center;
     background-color:#374151;
+    color: white;
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius:1rem ;
     height: 9.1rem;
