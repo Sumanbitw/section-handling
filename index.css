@@ -45,7 +45,7 @@ h1{
     color: white;
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius:1rem ;
-    height: 9.1rem;
+    height: 9.15rem;
     padding: 1rem;
 }
 
@@ -58,6 +58,7 @@ h1{
     border-top-right-radius:1rem ;
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius:1rem ;
+    box-shadow: 0px 5px 15px 1px rgba(0,0,0,0.5);
 }
 .section-item-1{
     min-height: 100px;
